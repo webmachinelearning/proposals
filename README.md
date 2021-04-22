@@ -1,4 +1,4 @@
-# Machine Learning for the Web - proposals for future work
+# Web Machine Learning - proposals for future work
 
 This repo is a place to share and discuss new proposals to Web-related Machine Learning standards that are not currently in scope of the [Machine Learning for the Web Community Group](https://webmachinelearning.github.io/) or [other W3C groups](https://www.w3.org/groups/).
 
