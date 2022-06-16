@@ -1,8 +1,8 @@
-# Web Machine Learning - proposals for future work
+# Web Machine Learning - proposals for future work 🔮 🔜 🚀
 
-This repo is a place to share and discuss new proposals to Web-related Machine Learning standards that are not currently in scope of the [Machine Learning for the Web Community Group](https://webmachinelearning.github.io/) or [other W3C groups](https://www.w3.org/groups/).
+This repo is a place to share and discuss new proposals to Web-related Machine Learning standards that are not currently in scope of the [Web Machine Learning Working Group](https://www.w3.org/groups/wg/webmachinelearning), [Web Machine Learning Community Group](https://www.w3.org/groups/cg/webmachinelearning) or [other W3C groups](https://www.w3.org/groups/).
 
-To share your idea, simply [open a new issue](https://github.com/webmachinelearning/proposals/issues/new?template=new-proposal.md) in this repo. To help get others excited about your proposal, it is helpful if in addition you include the following information in your issue:
+To share your idea, simply [✅ open a new issue](https://github.com/webmachinelearning/proposals/issues/new?template=new-proposal.md) in this repo. To help get others excited about your proposal, it is helpful if in addition you include the following information in your issue:
 
 >### Proposal name
 >Just enough information to be specific and memorable.
